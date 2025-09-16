@@ -1,5 +1,5 @@
 //1.	Multiplication Table Generator : Write a program that generates the multiplication table for a given number. Perform using looping, conditionals statements and functions. 
-Provide proper validations wherever required. Comment on the code with proper naming convention to explain the loop and output
+//Provide proper validations wherever required. Comment on the code with proper naming convention to explain the loop and output
 
  import java.util.*;
 import java.util.Scanner;
